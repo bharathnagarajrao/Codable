@@ -6,6 +6,8 @@
 
  */
 
+//  Copyright 2019 Bharath Nagaraj Rao. All rights reserved.
+
 import Foundation
 
 let jsonString = """
