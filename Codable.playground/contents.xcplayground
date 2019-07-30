@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='true'>
+    <pages>
+        <page name='01_CustomDecodingStrategy'/>
+        <page name='02_NestedContainer'/>
+        <page name='02_CodingKeyConformance'/>
+        <page name='03_CustomHandling'/>
+    </pages>
+</playground>
