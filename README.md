@@ -20,4 +20,8 @@ Demonstrates the flexibility to convert nested container into flat models or use
 
 **03_CustomHandling**
 
-Demonstrates the way to handle mismatch in types & also gives a sneak peek of support Codability for Range types which is new in Swift 5
+Demonstrates the way to handle mismatch in types & also gives a sneak peek on Codability for Range types which is new in Swift 5
+
+## Licence 
+
+MIT License - Refer LICENSE for more info
