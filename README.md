@@ -1,6 +1,8 @@
 # Codable
 
-Presentation on **"Journey of Codable"** @ Swift India Conference, July 2019 at Bengaluru
+Presentation on **Journey of Codable** @ Swift India Conference, July 2019 at Bengaluru
+
+![swiftconference_jul2019_bharathnagarajrao](https://github.com/bharathnagarajrao/Codable/blob/master/Journey_Of_Codable.gif)
 
 ## Prerequisite
 
